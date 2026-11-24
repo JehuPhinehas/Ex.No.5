@@ -413,8 +413,11 @@ The AI-generated recommendations were treated as design assistance rather than f
 ```
 
 ---
+## 18.OUTPUT
+<img width="1024" height="687" alt="image" src="https://github.com/user-attachments/assets/5673c801-ff5a-48a9-99c5-217a6bd8a945" />
 
-## 18. Conclusion
+
+## 19. Conclusion
 The experiment demonstrated that prompt design directly influences the quality, depth, and usefulness of AI-generated engineering solutions. A simple prompt provides only a superficial starting point, whereas role-based, structured, few-shot, and constraint-based prompts yield more focused and actionable results.
 
 For the Website Intrusion Prediction project, prompt chaining combined with clear constraints provided the most systematic approach because the complex problem could be divided into smaller engineering tasks and evaluated at each stage. Thus, effective prompt engineering serves as a practical tool for requirement analysis, system design, algorithm selection, and implementation planning, while the final solution must always be verified using real experimental evidence.
